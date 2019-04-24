@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringCloud Demo Projects(Security) -- Zuul Serv
+ er
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: reng
+Implementation-Vendor-Id: iiit.train.springcloud
+Build-Jdk: 1.8.0_74
+Implementation-URL: http://projects.spring.io/spring-boot/springcloud-
+ book-parent/zuul-server/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
